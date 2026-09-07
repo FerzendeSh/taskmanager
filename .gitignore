@@ -1,0 +1,14 @@
+# Gradle
+.gradle
+build
+**/build/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Local application configuration / secrets
+application-test.properties
+.env
