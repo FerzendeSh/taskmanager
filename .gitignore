@@ -10,5 +10,4 @@ build
 .DS_Store
 
 # Local application configuration / secrets
-application-test.properties
 .env
